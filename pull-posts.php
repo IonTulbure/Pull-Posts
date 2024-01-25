@@ -19,7 +19,7 @@
  * Version:           1.0.0
  * Author:            Ion Tulbure
  * Author URI:        https://mustcode.xyz/
- * License:           GPL-2.0+
+ * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       pull-posts
  * Domain Path:       /languages
