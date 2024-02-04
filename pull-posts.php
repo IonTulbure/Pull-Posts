@@ -29,3 +29,8 @@
 if (!defined('WPINC')) {
     die;
 }
+
+/**
+ * Current plugin version.
+ */
+define('PULL_POSTS_VERSION', '1.0.0');
